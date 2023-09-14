@@ -1,3 +1,3 @@
-# food
+# My food website
 
-#feel free to do what ever ;)
+#feel free to do whatever ;)
